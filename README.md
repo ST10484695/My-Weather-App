@@ -24,3 +24,13 @@ The Purpose of this Task was to Design a Weather app which displays the City, Da
 
 -The design used for this app is simple and sorely focuses on showing the weather and condition.
 -The mood used for the app would depend on what the weather is like, similarly to the screenshots, if it was a rainy the background of the app would be rainy and dark but if it was sunny it was be light with sunny day.
+
+### References:
+
+Icons8,S.A ,Weather symbols and icons, [Online}, 
+Available on: <https://icons8.com/icons/set/weather--style-dusk> 
+[Accessed on:28th August 2025]
+
+gettyImages, S.A, 9155 Gray Cloudy Sky ,Thunder and Rain Animation on cloudy Weather,[online],
+Available on: <https://www.gettyimages.com/videos/gray-cloudy-sky>
+[Accessed on: 28th August 2025]
