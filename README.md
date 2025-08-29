@@ -1,8 +1,10 @@
 # My Weather App
 
-** Student Name: ** Shailynn Devereux
-** Student Number: ** St10484695
-** Subject: ** Mobile App Scripting
+**Student Name:**  Shailynn Devereux
+
+**Student Number:**  ST10484695 
+
+**Subject:**  Mobile App Scripting
 
 ### Purpose:
 My weather app was developed for Mobile app Scripting as A task,this task would purely be design and styling without any backend or dynamc data.The data used would be 'dummy data'.
